@@ -12,7 +12,7 @@ display:flex;
   justify-content:center;
   aling-items: center;
   min-height: 100vh;
-  background: seagreen;
+  background: url('FortaCero.jpg') nonr-repeat;
  background-position: center;
   
 }
