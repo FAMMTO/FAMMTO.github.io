@@ -16,3 +16,13 @@ display:flex;
   
   
 }
+.wrapper{
+width: 420px;
+  background: purple;
+  color: #fff;
+  
+  }
+.wrapper{
+font-size: 36px;
+  text-align: center;
+}
