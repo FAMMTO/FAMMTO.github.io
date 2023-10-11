@@ -7,16 +7,16 @@
   
 }
 
-body{
-display:flex;
-  justify-content:center;
-  aling-items: center;
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center; /* Corregir "aling-items" a "align-items" */
   min-height: 100vh;
- background: url(Forta2.jpg) no-repeat;
- background-position: center;
+  background: url(Forta2.jpg) no-repeat;
+  background-position: center;
   background-size: cover;
-  
 }
+
 .wrapper {
 width: 420px;
   background: transparent;
